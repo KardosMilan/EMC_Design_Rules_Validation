@@ -1,0 +1,17 @@
+.629105150521 :1 ;USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole
+"629105150521"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=MH1 7=MH2 8=MH3 9=MH4
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="MH1" 7="MH2" 8="MH3" 9="MH4"
+*MXP 11
+*DFN 629105150521
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (629105150521)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/629105150521.pdf)
+~!Height (2.86mm)
+~!3D_Model (629105150521)
+"629105150521"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

@@ -1,0 +1,16 @@
+.PLT10HH1026R0PNL :1 ;PLT10HH Series EMI Suppression Filter 20uHmin. 6A 100V
+PLT10HH101150PNL
+*STM FL
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN PLT10HH1026R0PNL
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (PLT10HH1026R0PNL)
+~!Link Datasheet (https://www.murata.com/en-us/products/productdetail?partno=PLT10HH1026R0PN%23)
+~!Height (9.4mm)
+~!3D_Model (PLT10HH1026R0PNL)
+PLT10HH1026R0PNL
+1.1!U 2.1!U 3.1!U 4.1!U 

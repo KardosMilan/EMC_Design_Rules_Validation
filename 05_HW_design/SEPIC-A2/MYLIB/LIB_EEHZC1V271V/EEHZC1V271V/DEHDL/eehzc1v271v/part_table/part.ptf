@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEHZC1V271V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Panasonic", "EEHZC1V271V" (!) = "", "Hybrid_G_VP", "Other", "", "", "Panasonic 270F 35V dc Hybrid Conductive Polymer Aluminium Capacitor, Surface Mount 10 Dia. x 10.2mm +125C 10mm", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ABA0000C1234.pdf"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B40900B7277M000
+D Hybrid Polymer Capacitors, 270uF/35VDC, 10mm dia x 10.2mm length, SMD hybrid polymer
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/hybrid-polymer/data_sheet/20/30/db/aec/b40900.pdf
+$ENDCMP
+#
+#End Doc Library

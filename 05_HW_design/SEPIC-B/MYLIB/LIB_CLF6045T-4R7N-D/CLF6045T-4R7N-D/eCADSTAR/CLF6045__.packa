@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CLF6045T-4R7N-D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-07-16-15:05:04)
+    (mountForm default
+        (footprintRef "CLF6045__")
+        (spec "System")
+    )
+)

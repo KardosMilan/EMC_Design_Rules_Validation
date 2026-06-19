@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NCV898031D1R2G
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2022-06-02 09:48:20
+Downloaded=2024-04-29 09:41:32
+3D=Y

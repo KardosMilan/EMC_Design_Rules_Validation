@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BUK9Y2560EA004X"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BUK9Y2560EA004X")
+        (spec "default")
+    )
+)

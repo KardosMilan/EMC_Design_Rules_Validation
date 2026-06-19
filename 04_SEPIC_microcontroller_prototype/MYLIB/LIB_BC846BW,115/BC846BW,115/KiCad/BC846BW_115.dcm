@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC846BW,115
+D Bipolar Transistors - BJT TRANS GP TAPE-7
+K
+F http://www.nxp.com/documents/data_sheet/BC846_SER.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PLT10HH9016R0PNL"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-02-08:58:25)
+    (mountForm default
+        (footprintRef "PLT10HH9016R0PNL")
+        (spec "System")
+    )
+)

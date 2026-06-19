@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=BC846BW,115
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=7.1
+Released=2022-01-09 04:28:58
+Downloaded=2024-04-29 12:43:12
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=24.243.2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2019-05-03 18:58:51
+Downloaded=2024-06-11 11:45:42
+3D=Y

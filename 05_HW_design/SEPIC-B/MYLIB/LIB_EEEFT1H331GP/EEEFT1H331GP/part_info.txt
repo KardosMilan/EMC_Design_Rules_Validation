@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEEFT1H331GP
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=6.2
+Released=2018-02-05 16:59:15
+Downloaded=2024-07-26 07:45:29
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=SU10VD-20010
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=4.1
+Released=2019-02-27 10:53:35
+Downloaded=2024-07-22 08:43:01
+3D=Y

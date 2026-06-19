@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=BUK9Y25-60E/A004X
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=6
+Version=2.1
+Released=2022-10-13 08:39:34
+Downloaded=2024-04-29 08:47:30
+3D=N

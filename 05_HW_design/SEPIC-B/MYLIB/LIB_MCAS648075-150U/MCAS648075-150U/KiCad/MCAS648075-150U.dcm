@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCAS648075-150U
+D EMI Line Filter 15uH, 500mA, 50V
+K
+F 
+$ENDCMP
+#
+#End Doc Library

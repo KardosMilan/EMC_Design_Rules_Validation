@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PHPT60415NYX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-07-06:31:36)
+    (mountForm default
+        (footprintRef "PHPT60415NYX")
+        (spec "System")
+    )
+)

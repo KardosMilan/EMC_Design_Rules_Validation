@@ -1,0 +1,155 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EEHZC1V271V"
+   (description "Panasonic 270F 35V dc Hybrid Conductive Polymer Aluminium Capacitor, Surface Mount 10 Dia. x 10.2mm +125C 10mm")
+   (family "CAP")
+   (package "Hybrid_G_VP")
+   (attribute "Datasheet Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ABA0000C1234.pdf")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Panasonic")
+   (attribute "Manufacturer_Part_Number" "EEHZC1V271V")
+   (gate
+    (symbol "EEHZC1V271V")
+    (pin "+_1" 1 PS)
+    (pin "-_1" 2 PS)
+    (pin "+_2" 3 PS)
+    (pin "+_3" 4 PS)
+    (pin "-_2" 5 PS)
+    (pin "-_3" 6 PS)
+   )
+  )
+  (symbol "EEHZC1V271V"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "Hybrid_G_VP"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.15 7.35)
+      (pt 6.15 7.35)
+      (pt 6.15 -7.35)
+      (pt -6.15 -7.35)
+      (pt -6.15 7.35))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.15 5.15)
+      (pt 5.15 5.15)
+      (pt 5.15 -3)
+      (pt 3 -5.15)
+      (pt -3 -5.15)
+      (pt -5.15 -3)
+      (pt -5.15 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2 5.15)
+      (pt -5.15 5.15)
+      (pt -5.15 -3)
+      (pt -3 -5.15)
+      (pt -2 -5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2 5.15)
+      (pt 5.15 5.15)
+      (pt 5.15 -3)
+      (pt 3 -5.15)
+      (pt 2 -5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -6.8)
+      (arc (pt 0.000 -6.800) (pt -0.050 -6.900) (pt 0.050 -6.800) (start 180.0) (sweep 90.0))
+      (pt 0 -6.9)
+      (arc (pt 0.000 -6.900) (pt -0.050 -6.900) (pt 0.050 -6.800) (start 180.0) (sweep -90.0))
+      (pt 0 -6.8))))
+   (leg 1 (pt 0.000 -3.800) (padstack 0))
+   (leg 2 (pt 0.000 3.800) (padstack 0))
+   (leg 3 (pt 0.000 -5.400) (padstack 3))
+   (leg 4 (pt 0.000 -2.550) (padstack 4))
+   (leg 5 (pt 0.000 2.550) (padstack 5))
+   (leg 6 (pt 0.000 5.400) (padstack 6))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.300 4.700 0 0 0.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 1.900 2.500 0 0 0.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 2.500 0 0 0.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 2.500 0 0 0.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 1.900 2.500 0 0 0.000))
+   )
+   (model "EEHZC1V271V.stp"
+    (euler 90 0 90)
+    (offset 0 0 1.090000033378601)
+   )
+  )
+ )
+)

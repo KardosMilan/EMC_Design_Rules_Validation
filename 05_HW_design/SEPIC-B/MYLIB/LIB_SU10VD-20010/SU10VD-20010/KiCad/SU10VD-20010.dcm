@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SU10VD-20010
+D KEMET, SU-10VD, AC Line Filters, Common Mode, 250 VAC, 0.01 mH, 2 A, 120C, -25C, 100 mOhms, 700, 18mm, 16mm, 20mm, 4mm, 13mm, 10mm, 5.4 g
+K
+F https://content.kemet.com/datasheets/KEM_LF0020_SU10VD.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.NCV898031D1R2G :1 ;Switching Voltage Regulators 2 MHZ SMPS
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="EN" 2="ISNS" 3="GND" 4="GDRV" 5="VDRV" 6="VIN" 7="VC" 8="VFB"
+*MXP 8
+*DFN NCV898031D1R2G
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NCV898031D1R2G)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NCV898031-D.PDF?hkey=EF798316E3902B6ED9A73243A3159BB0)
+~!Height (1.75mm)
+~!3D_Model (NCV898031D1R2G)
+NCV898031D1R2G
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

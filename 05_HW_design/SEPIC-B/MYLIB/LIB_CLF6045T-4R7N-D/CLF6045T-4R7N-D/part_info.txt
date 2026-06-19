@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=CLF6045T-4R7N-D
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2021-07-16 15:05:05
+Downloaded=2024-04-29 11:41:50
+3D=Y

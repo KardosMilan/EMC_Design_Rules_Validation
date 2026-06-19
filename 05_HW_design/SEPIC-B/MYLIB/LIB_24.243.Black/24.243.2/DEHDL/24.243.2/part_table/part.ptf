@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '24.243.2'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Multicomp Pro", "24.243.2" (!) = "", "242432", "Other", "", "", "MULTICOMP - 24.243.2 - RECEPTACLE, 20A, 4MM, PCB, SOLDER, BLACK", "", "13 mm"
+END_PART
+
+END.

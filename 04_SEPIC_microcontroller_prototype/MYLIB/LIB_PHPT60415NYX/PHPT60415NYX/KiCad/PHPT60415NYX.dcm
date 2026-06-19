@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PHPT60415NYX
+D Bipolar Transistors - BJT 15A NPN High Power Bipolar Transistor
+K
+F https://assets.nexperia.com/documents/data-sheet/PHPT60415NY.pdf
+$ENDCMP
+#
+#End Doc Library

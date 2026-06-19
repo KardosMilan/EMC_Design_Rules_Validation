@@ -1,0 +1,16 @@
+.CLF6045T-4R7N-D :1 ;TDK CLF6045-D Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 4.7 uH +/-30% 3.2A Idc
+CLF6045__
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CLF6045T-4R7N-D
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (CLF6045T-4R7N-D)
+~!Link Datasheet (https://product.tdk.com/en/search/inductor/inductor/smd/info?part_no=CLF6045T-100M-D)
+~!Height (-)
+~!3D_Model (CLF6045T-4R7N-D)
+CLF6045T-4R7N-D
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=B40900B7277M000
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=8.1
+Released=2021-06-27 11:30:51
+Downloaded=2024-06-12 09:33:57
+3D=Y

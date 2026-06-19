@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PHPT60415NYX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PHPT60415NYX")
+        (spec "default")
+    )
+)

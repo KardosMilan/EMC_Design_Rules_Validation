@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUK9Y25-60E_A004X
+D N-channel 60 V, 25 m, 175 C logic level MOSFET in LFPAK56 
+K
+F https://assets.nexperia.com/documents/data-sheet/BUK9Y25-60E.pdf
+$ENDCMP
+#
+#End Doc Library

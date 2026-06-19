@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEHZC1V271V
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=6
+Version=2.1
+Released=2021-09-29 20:46:58
+Downloaded=2024-04-29 11:34:35
+3D=Y

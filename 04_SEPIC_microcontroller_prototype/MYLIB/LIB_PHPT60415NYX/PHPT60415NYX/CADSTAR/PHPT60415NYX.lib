@@ -1,0 +1,16 @@
+.PHPT60415NYX :1 ;Bipolar Transistors - BJT 15A NPN High Power Bipolar Transistor
+PHPT60415NYX
+*STM Q
+*NGS
+*PLB 1="E_1" 2="E_2" 3="E_3" 4="B" 5="C_1" 6="C_2"
+*MXP 6
+*DFN PHPT60415NYX
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PHPT60415NYX)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PHPT60415NY.pdf)
+~!Height (1.2mm)
+~!3D_Model (PHPT60415NYX)
+PHPT60415NYX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

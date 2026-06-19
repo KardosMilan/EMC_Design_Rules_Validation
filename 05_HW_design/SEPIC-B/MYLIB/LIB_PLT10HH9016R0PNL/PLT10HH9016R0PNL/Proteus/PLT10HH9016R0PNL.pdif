@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PLT10HH9016R0PNL"
+   (description "Common Mode Chokes / Filters 900ohms 6A 100volts CM Impd 14uH min")
+   (family "ANA")
+   (package "PLT10HH9016R0PNL")
+   (attribute "Datasheet Link" "https://www.murata.com/products/productdata/8796754935838/QFLB9101.pdf?1558409412000")
+   (attribute "Geometry.Height" "9.4mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "PLT10HH9016R0PNL")
+   (gate
+    (symbol "PLT10HH9016R0PNL")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "PLT10HH9016R0PNL"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PLT10HH9016R0PNL"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.3 6.45)
+      (pt 3.3 6.45)
+      (pt 3.3 -6.45)
+      (pt -3.3 -6.45)
+      (pt -3.3 6.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.3 10.05)
+      (pt 4.3 10.05)
+      (pt 4.3 -9)
+      (pt -4.3 -9)
+      (pt -4.3 10.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.3 3.25)
+      (pt -3.3 3.25)
+      (pt -3.3 -3.25)
+      (pt -3.3 -3.25)
+      (pt -3.3 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.3 3.25)
+      (pt 3.3 3.25)
+      (pt 3.3 -3.25)
+      (pt 3.3 -3.25)
+      (pt 3.3 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.4 9)
+      (arc (pt -2.400 9.000) (pt -2.400 8.950) (pt -2.300 9.050) (start 180.0) (sweep 180.0))
+      (pt -2.3 9)
+      (arc (pt -2.300 9.000) (pt -2.400 8.950) (pt -2.300 9.050) (start 180.0) (sweep .0))
+      (pt -2.4 9)
+      (arc (pt -2.400 9.000) (pt -2.400 8.950) (pt -2.300 9.050) (start 180.0) (sweep 180.0))
+      (pt -2.3 9))))
+   (leg 1 (pt -2.250 6.000) (padstack 0))
+   (leg 2 (pt 2.250 6.000) (padstack 0))
+   (leg 3 (pt 2.250 -6.000) (padstack 0))
+   (leg 4 (pt -2.250 -6.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.000 4.000 0 0 90.000))
+   )
+   (model "PLT10HH9016R0PNL.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

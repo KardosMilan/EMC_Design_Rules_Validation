@@ -1,0 +1,17 @@
+.BUK9Y25-60E_A004X :1 ;N-channel 60 V, 25 m, 175 C logic level MOSFET in LFPAK56 
+BUK9Y2560EA004X
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2"
+*MXP 6
+*DFN BUK9Y25-60E_A004X
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (BUK9Y25-60E/A004X)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/BUK9Y25-60E.pdf)
+~!Height (1.2mm)
+BUK9Y25-60E_A004X
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

@@ -1,0 +1,16 @@
+.24.243.2 :1 ;MULTICOMP - 24.243.2 - RECEPTACLE, 20A, 4MM, PCB, SOLDER, BLACK
+"242432"
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 24.243.2
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (24.243.2)
+~!Link Datasheet (-)
+~!Height (13mm)
+~!3D_Model (24.243.2)
+"24.243.2"
+1.1!U 2.1!U 

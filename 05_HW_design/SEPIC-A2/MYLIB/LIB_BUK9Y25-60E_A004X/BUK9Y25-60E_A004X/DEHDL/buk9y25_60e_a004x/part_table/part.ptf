@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BUK9Y25_60E_A004X'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "BUK9Y25-60E/A004X" (!) = "", "BUK9Y2560EA004X", "Other", "", "", "", "", "N-channel 60 V, 25 m, 175 C logic level MOSFET in LFPAK56 ", "https://assets.nexperia.com/documents/data-sheet/BUK9Y25-60E.pdf", "1.2 mm"
+END_PART
+
+END.

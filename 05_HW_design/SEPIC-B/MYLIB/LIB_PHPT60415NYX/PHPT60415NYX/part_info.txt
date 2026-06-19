@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PHPT60415NYX
+PartCategory=Transistor BJT NPN
+PackageCategory=Other
+PinCount=6
+Version=3.4
+Released=2020-04-21 10:41:57
+Downloaded=2024-04-29 12:35:13
+3D=Y

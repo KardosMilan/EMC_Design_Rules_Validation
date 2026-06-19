@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=MCAS648075-150U
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2022-11-07 04:08:26
+Downloaded=2024-07-22 08:23:55
+3D=Y

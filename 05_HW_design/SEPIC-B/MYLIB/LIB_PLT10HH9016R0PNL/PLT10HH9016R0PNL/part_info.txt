@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=PLT10HH9016R0PNL
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2019-10-10 10:28:45
+Downloaded=2024-07-23 11:46:46
+3D=Y

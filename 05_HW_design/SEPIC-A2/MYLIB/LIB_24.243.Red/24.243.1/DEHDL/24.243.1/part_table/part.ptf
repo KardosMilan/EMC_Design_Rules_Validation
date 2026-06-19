@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '24.243.1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Multicomp Pro", "24.243.1" (!) = "", "242431", "Other", "", "", "Banana Test Connector, 4mm, Socket, PCB Mount, 24 A, 60 VDC, Silver Plated Contacts, Red", "", "12.6 mm"
+END_PART
+
+END.

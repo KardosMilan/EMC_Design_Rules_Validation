@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "My_Library")(type "KiCad")(uri "${KIPRJMOD}/My_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "CLF6045T-4R7N-D")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_CLF6045T-4R7N-D/CLF6045T-4R7N-D/KiCad/CLF6045T-4R7N-D.kicad_sym")(options "")(descr ""))
+  (lib (name "PHPT60415NYX")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_PHPT60415NYX/PHPT60415NYX/KiCad/PHPT60415NYX.kicad_sym")(options "")(descr ""))
+  (lib (name "BC846BW_115")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_BC846BW,115/BC846BW,115/KiCad/BC846BW_115.kicad_sym")(options "")(descr ""))
+  (lib (name "ATMEGA32U4-AU")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_ATMEGA32U4-AU/ATMEGA32U4-AU/ATMEGA32U4/ATMEGA32U4-AU.kicad_sym")(options "")(descr ""))
+  (lib (name "B40900B7277M000")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_B40900B7277M000/B40900B7277M000/KiCad/B40900B7277M000.kicad_sym")(options "")(descr ""))
+)

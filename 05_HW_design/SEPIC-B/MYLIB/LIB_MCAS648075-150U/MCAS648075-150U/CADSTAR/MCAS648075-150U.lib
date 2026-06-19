@@ -1,0 +1,16 @@
+.MCAS648075-150U :1 ;EMI Line Filter 15uH, 500mA, 50V
+MCAS648075150U
+*STM FL
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN MCAS648075-150U
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (MCAS648075-150U)
+~!Link Datasheet (-)
+~!Height (8mm)
+~!3D_Model (MCAS648075-150U)
+MCAS648075-150U
+1.1!U 2.1!U 3.1!U 4.1!U 

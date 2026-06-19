@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'B40900B7277M000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TDK", "B40900B7277M000" (!) = "", "CAPAE1030X1050N", "Capacitor Al Electrolytic", "", "", "Hybrid Polymer Capacitors, 270uF/35VDC, 10mm dia x 10.2mm length, SMD hybrid polymer", "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/hybrid-polymer/data_sheet/20/30/db/aec/b40900.pdf", "10.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CLF6045__"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CLF6045__")
+        (spec "default")
+    )
+)

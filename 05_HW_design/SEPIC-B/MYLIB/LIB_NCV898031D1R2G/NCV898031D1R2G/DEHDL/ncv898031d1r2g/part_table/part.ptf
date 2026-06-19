@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NCV898031D1R2G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NCV898031D1R2G" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "", "", "Switching Voltage Regulators 2 MHZ SMPS", "https://www.onsemi.com/pub/Collateral/NCV898031-D.PDF?hkey=EF798316E3902B6ED9A73243A3159BB0", "1.75 mm"
+END_PART
+
+END.

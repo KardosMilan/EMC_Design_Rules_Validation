@@ -1,0 +1,16 @@
+.BC846BW_115 :1 ;Bipolar Transistors - BJT TRANS GP TAPE-7
+SOT65P210X110-3N
+*STM IC
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN BC846BW_115
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (BC846BW,115)
+~!Link Datasheet (http://www.nxp.com/documents/data_sheet/BC846_SER.pdf)
+~!Height (1.1mm)
+~!3D_Model (BC846BW,115)
+BC846BW_115
+1.1!U 2.1!U 3.1!U 

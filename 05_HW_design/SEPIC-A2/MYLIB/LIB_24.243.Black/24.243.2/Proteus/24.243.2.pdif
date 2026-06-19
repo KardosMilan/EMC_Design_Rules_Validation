@@ -1,0 +1,132 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "24.243.2"
+   (description "MULTICOMP - 24.243.2 - RECEPTACLE, 20A, 4MM, PCB, SOLDER, BLACK")
+   (family "CON")
+   (package "242432")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "13mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Multicomp Pro")
+   (attribute "Manufacturer_Part_Number" "24.243.2")
+   (gate
+    (symbol "24.243.2")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "24.243.2"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "242432"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 5.05)
+      (pt 17.9 5.05)
+      (pt 17.9 -5.65)
+      (pt -3.5 -5.65)
+      (pt -3.5 5.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.5 5.05)
+      (pt 17.9 5.05)
+      (pt 17.9 -5.65)
+      (pt -3.5 -5.65)
+      (pt -3.5 5.05))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.5 6.05)
+      (pt 21.5 6.05)
+      (pt 21.5 -6.65)
+      (pt -4.5 -6.65)
+      (pt -4.5 6.05))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 17.9 4.9)
+      (pt 20.5 4.9)
+      (pt 20.5 -4.8)
+      (pt 17.9 -4.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 17.9 4.9)
+      (pt 20.5 4.9)
+      (pt 20.5 -4.8)
+      (pt 17.9 -4.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.95 0)
+      (arc (pt -3.950 0.000) (pt -4.050 -0.050) (pt -3.950 0.050) (start 180.0) (sweep .0))
+      (pt -4.05 0)
+      (arc (pt -4.050 0.000) (pt -4.050 -0.050) (pt -3.950 0.050) (start 180.0) (sweep -180.0))
+      (pt -3.95 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 15.500 0.000) (padstack 2))
+   (padstack 0
+    (hole 1.97)
+    (plated true)
+    (pad (layer TCOP) (square 2.955))
+    (pad (layer INNER) (round 2.955))
+    (pad (layer BCOP) (square 2.955))
+   )
+   (padstack 2
+    (hole 1.97)
+    (plated true)
+    (pad (layer TCOP) (round 2.955))
+    (pad (layer INNER) (round 2.955))
+    (pad (layer BCOP) (round 2.955))
+   )
+   (model "24.243.2.stp"
+    (euler 0 0 90)
+    (offset 15.5 0.07000000029802322 0)
+   )
+  )
+ )
+)

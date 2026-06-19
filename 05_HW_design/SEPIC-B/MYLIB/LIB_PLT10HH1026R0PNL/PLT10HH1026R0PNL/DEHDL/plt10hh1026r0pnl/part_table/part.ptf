@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PLT10HH1026R0PNL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "PLT10HH1026R0PNL" (!) = "", "PLT10HH101150PNL", "Other", "", "", "PLT10HH Series EMI Suppression Filter 20uHmin. 6A 100V", "https://www.murata.com/en-us/products/productdetail?partno=PLT10HH1026R0PN%23", "9.4 mm"
+END_PART
+
+END.

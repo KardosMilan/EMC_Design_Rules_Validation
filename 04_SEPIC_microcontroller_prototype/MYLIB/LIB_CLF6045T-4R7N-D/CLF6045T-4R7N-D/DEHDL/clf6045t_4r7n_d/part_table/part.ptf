@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CLF6045T_4R7N_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TDK", "CLF6045T-4R7N-D" (!) = "", "CLF6045_*", "Other", "", "", "TDK CLF6045-D Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 4.7 uH +/-30% 3.2A Idc", "https://product.tdk.com/en/search/inductor/inductor/smd/info?part_no=CLF6045T-100M-D"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.PLT10HH9016R0PNL :1 ;Common Mode Chokes / Filters 900ohms 6A 100volts CM Impd 14uH min
+PLT10HH9016R0PNL
+*STM FL
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN PLT10HH9016R0PNL
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (PLT10HH9016R0PNL)
+~!Link Datasheet (https://www.murata.com/products/productdata/8796754935838/QFLB9101.pdf?1558409412000)
+~!Height (9.4mm)
+~!3D_Model (PLT10HH9016R0PNL)
+PLT10HH9016R0PNL
+1.1!U 2.1!U 3.1!U 4.1!U 

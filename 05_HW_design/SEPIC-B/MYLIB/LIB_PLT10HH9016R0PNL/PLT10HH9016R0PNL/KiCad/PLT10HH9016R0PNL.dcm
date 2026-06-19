@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PLT10HH9016R0PNL
+D Common Mode Chokes / Filters 900ohms 6A 100volts CM Impd 14uH min
+K
+F https://www.murata.com/products/productdata/8796754935838/QFLB9101.pdf?1558409412000
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad4")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_NCV898031D1R2G/NCV898031D1R2G/KiCad")(options "")(descr ""))
+  (lib (name "KiCad5")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_CLF6045T-4R7N-D/CLF6045T-4R7N-D/KiCad")(options "")(descr ""))
+  (lib (name "KiCad6")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_PHPT60415NYX/PHPT60415NYX/KiCad")(options "")(descr ""))
+  (lib (name "KiCad7")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_BC846BW,115/BC846BW,115/KiCad")(options "")(descr ""))
+  (lib (name "USB-Micro")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_629105150521/629105150521/USB-Micro")(options "")(descr ""))
+  (lib (name "ATMEGA32U4")(type "KiCad")(uri "${KIPRJMOD}/MYLIB/LIB_ATMEGA32U4-AU/ATMEGA32U4-AU/ATMEGA32U4")(options "")(descr ""))
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BUK9Y25-60E_A004X"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-10-13-08:39:34)
+    (mountForm default
+        (footprintRef "BUK9Y2560EA004X")
+        (spec "System")
+    )
+)

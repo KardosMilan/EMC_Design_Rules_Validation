@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "Hybrid_G_VP"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "Hybrid_G_VP")
+        (spec "default")
+    )
+)

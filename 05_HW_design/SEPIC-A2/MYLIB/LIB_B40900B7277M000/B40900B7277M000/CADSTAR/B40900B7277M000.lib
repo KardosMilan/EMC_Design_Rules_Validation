@@ -1,0 +1,16 @@
+.B40900B7277M000 :1 ;Hybrid Polymer Capacitors, 270uF/35VDC, 10mm dia x 10.2mm length, SMD hybrid polymer
+CAPAE1030X1050N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN B40900B7277M000
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (B40900B7277M000)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/hybrid-polymer/data_sheet/20/30/db/aec/b40900.pdf)
+~!Height (10.5mm)
+~!3D_Model (B40900B7277M000)
+B40900B7277M000
+1.1!U 2.1!U 

@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EEHZC1V271V
+#/2102752/1264584/2.50/6/2/Capacitor Polarised
+DEF EEHZC1V271V C 0 30 Y Y 1 F N
+F0 "C" 750 300 50 H V L CNN
+F1 "EEHZC1V271V" 750 200 50 H V L CNN
+F2 "Hybrid_G_VP" 750 100 50 H I L CNN
+F3 "http://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ABA0000C1234.pdf" 750 0 50 H I L CNN
+F4 "Panasonic 270F 35V dc Hybrid Conductive Polymer Aluminium Capacitor, Surface Mount 10 Dia. x 10.2mm +125C 10mm" 750 -100 50 H I L CNN "Description"
+F5 "" 750 -200 50 H I L CNN "Height"
+F6 "" 750 -300 50 H I L CNN "Farnell Part Number"
+F7 "" 750 -400 50 H I L CNN "Farnell Price/Stock"
+F8 "Panasonic" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "EEHZC1V271V" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +_1 1 0 -400 200 R 50 50 0 0 P
+X -_1 2 0 -100 200 R 50 50 0 0 P
+X +_2 3 0 -500 200 R 50 50 0 0 P
+X +_3 4 0 -300 200 R 50 50 0 0 P
+X -_2 5 0 -200 200 R 50 50 0 0 P
+X -_3 6 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

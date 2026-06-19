@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PHPT60415NYX'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PHPT60415NYX" (!) = "", "PHPT60415NYX", "Other", "", "", "Bipolar Transistors - BJT 15A NPN High Power Bipolar Transistor", "https://assets.nexperia.com/documents/data-sheet/PHPT60415NY.pdf", "1.2 mm"
+END_PART
+
+END.
