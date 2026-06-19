@@ -10,6 +10,11 @@ This project documents the full development and validation cycle of a switching 
 
 Two contrasting PCB design iterations (SEPIC-A2 and SEPIC-B) are included side by side, demonstrating the measurable EMC impact of layout and filter decisions.
 
+## Example of a designed PCB in aluminium housing
+
+![Enclosure with PCB](02_Pictures/Enclosure_with_PCB_1.jpg)
+
+
 ---
 
 ## Project Goals
